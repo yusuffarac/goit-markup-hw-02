@@ -59,7 +59,10 @@ body {
   line-height: 24px;
   letter-spacing: 2%;
   text-decoration: none
+<<<<<<< HEAD
 }
 .tel a:hover {
   color: #404BBF;
+=======
+>>>>>>> 3c13b035fb906e56e4c6c7a21f3d3fb06aed8334
 }
