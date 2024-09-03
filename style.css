@@ -60,3 +60,88 @@ body {
   letter-spacing: 2%;
   text-decoration: none
 }
+.Effective-solutions {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: 2%;
+  color: #FFFFFF;
+  background-color: #2E2F42;
+}
+.button-order-service{
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 4%;
+  color: #FFFFFF;
+  background-color:#4D5AE5 ;
+}
+.goals li {
+  list-style-type: none;
+}
+.Strategy {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Strategy-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Punctuality {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Punctuality-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Diligence {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Diligence-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Technologies {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Technologies-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
