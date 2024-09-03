@@ -145,3 +145,78 @@ body {
   letter-spacing: 2%;
   color:#434455 ;
 }
+.Our-team {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 700;
+  font-size: 136x;
+  line-height: 40px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Our-team li {
+list-style-type: none;
+}
+.Mark {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Mark-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Tom {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Tom-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Camila {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Camila-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
+.Daniel {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.Daniel-p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16x;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color:#434455 ;
+}
