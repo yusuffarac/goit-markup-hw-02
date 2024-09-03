@@ -220,3 +220,62 @@ list-style-type: none;
   letter-spacing: 2%;
   color:#434455 ;
 }
+.Our-portfolio {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 40px;
+  letter-spacing: 2%;
+  color:#2E2F42 ;
+}
+.App {
+  list-style-type: none;
+}
+.App h3 {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color : #2E2F42 ;
+}
+.App p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color : #434455 ;
+}
+.footer {
+  background-color: #2E2F42 ;
+}
+.footer p {
+  font-family:"Roboto", sans-serif ;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  letter-spacing: 2%;
+  color : #E7E9FC ;
+}
+.web1 {
+  text-decoration: none;
+  color: #4d5ae5;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.studıo1 {
+  text-decoration: none;
+  color: #F4F4FD;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 21px;
+  letter-spacing: 3%;
+}
+.footer-href {
+  text-decoration: none;
+}
