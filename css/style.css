@@ -40,7 +40,7 @@ body {
   color: #404bbf;
 }
 .mailto {
-  color: #434455;
+  color:#434455 ;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -49,182 +49,182 @@ body {
   text-decoration: none;
 }
 .mailto a:hover {
-  color: #404bbf;
+  color: #404BBF;
 }
 .tel {
-  color: #434455;
+  color:#434455 ;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  text-decoration: none;
+  text-decoration: none
 }
 .Effective-solutions {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 700;
   font-size: 56px;
   line-height: 60px;
   letter-spacing: 2%;
-  color: #ffffff;
-  background-color: #2e2f42;
+  color: #FFFFFF;
+  background-color: #2E2F42;
 }
-.button-order-service {
-  font-family: "Roboto", sans-serif;
+.button-order-service{
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 4%;
-  color: #ffffff;
-  background-color: #4d5ae5;
+  color: #FFFFFF;
+  background-color:#4D5AE5 ;
 }
 .goals li {
   list-style-type: none;
 }
 .Strategy {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Strategy p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color:#434455 ;
 }
 .Punctuality {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Punctuality p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color:#434455 ;
 }
 .Diligence {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Diligence-p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color:#434455 ;
 }
 .Technologies {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Technologies p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color:#434455 ;
 }
 .Our-team {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 700;
   font-size: 136x;
   line-height: 40px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Our-team li {
-  list-style-type: none;
+list-style-type: none;
 }
 .Our-team p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16x;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color:#434455 ;
 }
 .Our-team h3 {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20x;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Camila {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20x;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Daniel {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20x;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .Our-portfolio {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 700;
   font-size: 36px;
   line-height: 40px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color:#2E2F42 ;
 }
 .App {
   list-style-type: none;
 }
 .App h3 {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 500;
   font-size: 20px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #2e2f42;
+  color : #2E2F42 ;
 }
 .App p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #434455;
+  color : #434455 ;
 }
 .footer {
-  background-color: #2e2f42;
+  background-color: #2E2F42 ;
 }
 .footer p {
-  font-family: "Roboto", sans-serif;
+  font-family:"Roboto", sans-serif ;
   font-weight: 400;
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 2%;
-  color: #e7e9fc;
+  color : #E7E9FC ;
 }
 .web1 {
   text-decoration: none;
@@ -237,7 +237,7 @@ body {
 }
 .studıo1 {
   text-decoration: none;
-  color: #f4f4fd;
+  color: #F4F4FD;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   font-size: 18px;
