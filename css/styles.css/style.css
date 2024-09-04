@@ -17,7 +17,7 @@ body {
   letter-spacing: 3%;
 }
 
-.studıo {
+.studio {
   text-decoration: none;
   color: #2e2f42;
   font-family: "Raleway", sans-serif;
@@ -51,7 +51,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.4rem;
   letter-spacing: 2%;
   text-decoration: none;
 }
@@ -65,21 +65,20 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.4;
+  line-height: 1.4rem;
   letter-spacing: 2%;
   text-decoration: none;
 }
 
-.Effective-solutions {
+.effective-solutions {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 56px;
-  line height: 3.75rem;
+  line-height: 3.75rem;
   letter-spacing: 2%;
-  color: #FFFF;
-  background-color: #2E2F42;
+  color: #FFFFFF;
+  background-color: #2E2F42 ;
 }
-
 .button-order-service {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
@@ -94,7 +93,7 @@ body {
   list-style-type: none;
 }
 
-.Strategy {
+.strategy {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -103,7 +102,7 @@ body {
   color: #2E2F42;
 }
 
-.Strategy p {
+.strategy p {
   font-family:"Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -112,7 +111,7 @@ body {
   color:#434455;
 }
 
-.Punctuality {
+.punctuality {
   font-family:"Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -121,7 +120,7 @@ body {
   color:#2E2F42;
 }
 
-.Punctuality p {
+.punctuality p {
   font-family:"Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -130,7 +129,7 @@ body {
   color:#434455;
 }
 
-.Diligence {
+.diligence {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -139,7 +138,7 @@ body {
   color:#2E2F42;
 }
 
-.Diligence-p {
+.diligence-p {
   font-family:"Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -148,7 +147,7 @@ body {
   color:#434455;
 }
 
-.Technologies {
+.technologies {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -157,7 +156,7 @@ body {
   color: #2E2F42;
 }
 
-.Technologies p {
+.technologies p {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16px;
@@ -166,7 +165,7 @@ body {
   color: #434455;
 }
 
-.Our-team {
+.our-team {
   font-family:"Roboto", sans-serif;
   font-weight: 700;
   font-size: 136x;
@@ -175,11 +174,11 @@ body {
   color: #2E2F42;
 }
 
-.Our-team li {
+.our-team li {
   list-style-type: none;
 }
 
-.Our-team p {
+.our-team p {
   font-family: "Roboto", sans-serif;
   font-weight: 400;
   font-size: 16x;
@@ -188,7 +187,7 @@ body {
   color: #434455;
 }
 
-.Our-team h3 {
+.our-team h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20x;
@@ -197,7 +196,7 @@ body {
   color: #2E2F42;
 }
 
-.Camila {
+.camila {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -205,8 +204,23 @@ body {
   letter-spacing: 2%;
   color: #2E2F42;
 }
-
-.Daniel {
+.mark {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 1.5rem;
+  letter-spacing: 2%;
+  color: #2E2F42;
+}
+.tom {
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-size: 20x;
+  line-height: 1.5rem;
+  letter-spacing: 2%;
+  color: #2E2F42;
+}
+.daniel {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20x;
@@ -215,7 +229,7 @@ body {
   color: #2E2F42;
 }
 
-.Our-portfolio {
+.our-portfolio {
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   font-size: 36px;
@@ -224,11 +238,11 @@ body {
   color: #2E2F42;
 }
 
-.App {
+.app {
   list-style-type: none;
 }
 
-.App h3 {
+.app h3 {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
@@ -269,7 +283,7 @@ body {
   letter-spacing: 3%;
 }
 
-.studıo1 {
+.studio1 {
   text-decoration: none;
   color: #F4F4FD;
   font-family: "Raleway", sans-serif;
