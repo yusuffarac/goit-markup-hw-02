@@ -79,7 +79,7 @@ body {
   color: #FFFFFF;
   background-color: #2E2F42 ;
 }
-.button-order-service {
+.effective-solutions button {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 16px;
@@ -88,10 +88,9 @@ body {
   color: #FFFFFF;
   background-color: #4D5AE5;
 }
-.button-order-service a:hover {
- color:#404bbf ;
+.button a:hover {
+background: #404BBF;
 }
-
 .goals li {
   list-style-type: none;
 }
